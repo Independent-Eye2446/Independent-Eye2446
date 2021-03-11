@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Independent-Eye</h1>
-<h3 align="center">I am a game developer from Germany</h3>
+<h3 align="center">I am a hobby developer from Germany</h3>
 
 - 🔭 I’m currently working on [SuperTuxParty](https://gitlab.com/SuperTuxParty/SuperTuxParty), [OpenUniverse](https://github.com/Independent-Eye2446/OpenUniverse) and the [OpenUniverse Website](https://github.com/Independent-Eye2446/OpenUniverse-Website)
 
